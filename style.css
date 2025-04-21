@@ -146,9 +146,6 @@ section{
 }.about img:hover{
 	opacity: 0.8
 }
-
-
-
 /* ===================================================================================== */
 .call-us{
 	background: #04d2c8;
@@ -168,9 +165,6 @@ section{
 	background: white;
 	color: #04d2c8;
 }
-
-
-
 /* ===================================================================================== */
 .services .content{
 	width: 750px;
@@ -188,8 +182,6 @@ section{
 .servicebox .head{
 	color: #000
 }
-
-
 /* ===================================================================================== */
 
 .newsletter{
@@ -222,9 +214,6 @@ section{
 	color: white;
 	cursor: pointer;
 }
-
-
-
 /* ===================================================================================== */
 .team .content{
 	width: 750px;
@@ -273,8 +262,6 @@ section{
 	color: white;
 	font-size: 20px
 }
-
-
 /* ===================================================================================== */
 .testimonial{
 	background: #191919
@@ -302,9 +289,6 @@ section{
 .testibox p b {
 	color: #fff;
 }
-
-
-
 /* ===================================================================================== */
 footer{
 	padding: 70px 0;
@@ -330,8 +314,6 @@ footer ul{
 footer ul li a:hover{
 	color: white;
 }
-
-
 /* ===================================================================================== */
 .top-section{
 	background: url(images/top.jpg) center center repeat;
@@ -381,16 +363,10 @@ footer ul li a:hover{
 	z-index: -1;
 	text-transform: uppercase;
 }
-
-
-
 /* ===================================================================================== */
 .privacy-policy .heading{
 	margin-bottom: 40px
 }
-
-
-
 /* ===================================================================================== */
 .contact-us{
 	padding: 0;
@@ -474,9 +450,6 @@ margin:0; }
 	outline: none;
 	cursor: pointer;
 }
-
-
-
 /* ===================================================================================== */
 .web-design {
 	position: relative;	
@@ -1017,8 +990,6 @@ margin:0; }
 	background: #f2701d;
 	color: white
 }
-
-
 .printer{
 	background: linear-gradient(90deg, rgb(68, 185, 180) 36%, rgba(24,5,5,1) 100%);
 	padding: 30px 0
@@ -1108,12 +1079,6 @@ margin:0; }
 .missuse p{
 	color: black
 }
-
-
-
-
-
-
 .printer_page{
 	background:#078dc8; 
 	background-size: cover;
@@ -1332,9 +1297,6 @@ margin:0; }
 		display: none;
 	}
 }
-
-
-
 .driver-sectionn{
     background: linear-gradient(rgb(0 0 0 / 64%), rgb(0 0 0 / 64%)), url(../images/select-printer-banner.png);
     background-position: center;
@@ -1356,13 +1318,6 @@ margin:0; }
 .driver-sectionn p{
     color:white;
 }
-
-
-
-
-
-
-
 /* ===================================================================================== */
 @media (max-width: 1199px) {
 	.call-us .btn__{
@@ -1377,9 +1332,6 @@ margin:0; }
 	}
 
 }
-
-
-
 /* ===================================================================================== */
 @media (max-width: 991px) {
 	.slide-one .content{
@@ -1412,11 +1364,6 @@ margin:0; }
 		font-size: 200px
 	}
 }
-
-
-
-
-
 /* ===================================================================================== */
 @media (max-width: 991px){
 	.about img{
@@ -1445,8 +1392,6 @@ margin:0; }
 	width: 100%
 }
 }
-
-
 /* ===================================================================================== */
 @media (max-width: 767px){
 	.top-section h1{
