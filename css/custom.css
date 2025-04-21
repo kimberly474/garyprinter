@@ -10,14 +10,12 @@
     font-weight: 400;
     font-style: normal
 }
-
 @font-face {
     font-family: 'spartan_mbbold';
     src: url(https://theprintinghubs.com/fonts/spartanmb-bold.woff2) format("woff2"), url(https://theprintinghubs.com/fonts/spartanmb-bold.woff) format("woff");
     font-weight: 400;
     font-style: normal
 }
-
 @font-face {
     font-family: 'spartan_mbextrabold';
     src: url(https://theprintinghubs.com/fonts/spartanmb-extra-bold.woff2) format("woff2"), url(https://theprintinghubs.com/fonts/spartanmb-extra-bold.woff) format("woff");
